@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+*.log
+.system_generated/
+demo_video_raw/
+node_modules/
+.cache/
+deployment_metadata.json
